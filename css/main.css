@@ -1,0 +1,26 @@
+body {
+    margin: 10px;
+    padding: 0;
+    border: 0;
+    background-color: antiquewhite;
+    color: #ff5522;
+    font-weight: bold;
+}
+.focim {
+    font-size: 20px;
+}
+#playground {
+    margin: 0 auto;
+    background-image: url("../img/kenya.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#playground td {
+    width: 84px;
+    height: 84px;
+    border: 1px solid #ff5522;
+    background-color: rgba(255,255,255, 0.3);
+}
+.kicsi {
+    font-size: xx-small;
+}
